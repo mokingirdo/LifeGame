@@ -1,0 +1,23 @@
+﻿  Cell.cpp
+  Deserealizer.cpp
+  Executor.cpp
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\Strategy.h(22,24): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Field.cpp
+  Game.cpp
+  History.cpp
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\History.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\History.cpp(64,22): warning C4244: return: преобразование "unsigned __int64" в "const size_t", возможна потеря данных
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\History.cpp(74,20): warning C4018: <: несоответствие типов со знаком и без знака
+  My_test.cpp
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\Strategy.h(22,24): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Parser.cpp
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\Strategy.h(22,24): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Seriealizer.cpp
+  Strategy.cpp
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\Strategy.h(22,24): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\Strategy.cpp(89,33): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  View.cpp
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\Strategy.h(22,24): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Создание кода...
+C:\Users\yule2\Documents\Projects\LifeGame\LifeGame\Executor.cpp(102): warning C4715: Executor::call_command: значение возвращается не при всех путях выполнения
+  LifeGame.vcxproj -> C:\Users\yule2\Documents\Projects\LifeGame\Debug\LifeGame.exe
